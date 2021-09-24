@@ -1,0 +1,6 @@
+; position restraint file for DPPC P8
+
+; o i 8 representa o P8, que deve ser um atomo central. quando fizer com AC2PIM2, pegar um atomo equivalente.
+[ position_restraints ]
+;  i funct       fcx        fcy        fcz
+   8    1       0       0       1000
